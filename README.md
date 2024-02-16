@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **React Native, Flutter, Angular**
 
-- 👯 I’m looking to collaborate on **Minecraft Servers**
 
 - 👨‍💻 All of my projects are available at [obedmz.github.io](obedmz.github.io)
 
