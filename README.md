@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obedmz&label=Profile%20views&color=0e75b6&style=flat" alt="obedmz" /> </p>
 
 
-- 🔭 I’m currently working on [React Native Spotify Clone Aplication](https://github.com/ObedMz)
+- 🔭 I’m currently working on [React Native Spotify Clone Aplication](https://github.com/ObedMz/Beatify)
 
 - 🌱 I’m currently learning **React Native, Flutter, Angular**
 
