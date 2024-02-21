@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [React Native Spotify Clone Aplication](https://github.com/ObedMz/Beatify)
 
-- 🌱 I’m currently learning **React Native, Flutter, Angular**
+- 🌱 I’m currently learning **React Native**
 
 
 - 👨‍💻 All of my projects are available at [obedmz.github.io](obedmz.github.io)
