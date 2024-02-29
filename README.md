@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning **React Native**
 
 
-- 👨‍💻 All of my projects are available at [obedmz.github.io](obedmz.github.io)
+- 👨‍💻 All of my projects are available at [obedmz.vercel.app](https://obedmz.vercel.app)
 
 - 📫 How to reach me **obedmontano43@gmail.com**
 
-- 📄 Know about my experiences [obedmz.github.io](obedmz.github.io)
+- 📄 Know about my experiences [obedmz.vercel.app](https://obedmz.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
