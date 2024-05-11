@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">A simple Java developer from Perú</h3>
+<h1 align="center">Hi 👋, I'm Franciso Montaño</h1>
+<h3 align="center">Software Engineer and SSR Java developer from Perú </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obedmz&label=Profile%20views&color=0e75b6&style=flat" alt="obedmz" /> </p>
-
-
-- 🔭 I’m currently working on [React Native Spotify Clone Aplication](https://github.com/ObedMz/Beatify)
-
-- 🌱 I’m currently learning **React Native**
-
 
 - 👨‍💻 All of my projects are available at [obedmz.vercel.app](https://obedmz.vercel.app/#projects)
 
@@ -21,6 +15,12 @@
 <a href="https://www.youtube.com/c/@obedmovies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@obedmovies" height="30" width="40" /></a>          
 <a href="https://discord.gg/.obeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".obeed" height="30" width="40" /></a>                 
 </p>
+
+![ObedMz's Stats](https://github-readme-stats.vercel.app/api?username=ObedMz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![ObedMz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObedMz&theme=vue-dark&hide_border=true)
+
+![ObedMz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObedMz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 
