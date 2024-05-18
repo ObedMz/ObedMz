@@ -16,7 +16,7 @@
 <a href="https://discord.gg/.obeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".obeed" height="30" width="40" /></a>                 
 </p>
 
-![ObedMz's Stats](https://github-readme-stats.vercel.app/api?username=ObedMz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![ObedMz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObedMz&theme=vue-dark&hide_border=true)
+![obedmz's Stats](https://github-readme-stats.vercel.app/api?username=obedmz&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ![ObedMz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObedMz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
